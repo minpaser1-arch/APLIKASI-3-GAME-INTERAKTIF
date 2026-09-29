@@ -1,0 +1,6 @@
+{
+  "name": "Madrasah Ceria - Portal Belajar & Game Edukasi MI",
+  "description": "Platform edukasi interaktif siswa Madrasah Ibtidaiyah dengan kumpulan materi pelajaran dan 3 game seru: Ular Tangga, Siapa Ingin Menjadi Jutawan, dan IFP Quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
